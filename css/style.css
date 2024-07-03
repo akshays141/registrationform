@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+input, textarea{
+    margin: 5px;
+    
+}
+
+div{
+   border: 2px solid black;
+   background-color: aliceblue;
+   width: 50%;
+   margin-inline-start: auto;
+   margin-inline-end: auto ;
+    
+}
+
+
